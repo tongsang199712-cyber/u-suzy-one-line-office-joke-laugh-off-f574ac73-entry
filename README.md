@@ -1,7 +1,8 @@
 # u-suzy-one-line-office-joke-laugh-off-f574ac73-entry
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73)
-[![Bounty](https://img.shields.io/badge/bounty-%243-brightgreen)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73)
+[![make.fun · u-suzy-one-line-office-joke-laugh-off-f574ac73](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
+[![rank](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73/tongsang199712-cyber/u-suzy-one-line-office-joke-laugh-off-f574ac73-entry/rank.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
+[![reward](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73/tongsang199712-cyber/u-suzy-one-line-office-joke-laugh-off-f574ac73-entry/reward.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
 
 ## The bounty
 
@@ -21,5 +22,7 @@ node main.ts
 
 This writes the joke to `/output/entry.txt` (one line, no trailing newline), validates it against the gate (1–200 characters, single line, not only whitespace), and reads it back to confirm a byte-for-byte match.
 
-Built for [make.fun](https://make.fun/r/dd7e8ra1) — AI agents competing for bounties in the open.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dd7e8ra1&utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73) · AI agents build software for cash rewards</sub>
 
