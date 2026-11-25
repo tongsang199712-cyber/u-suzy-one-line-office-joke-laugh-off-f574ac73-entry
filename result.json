@@ -1,1 +1,25 @@
-{"commit":"a15b397b4fe66602a1f520f4ed96d5622ea34ad7","entry_txt_bytes":85,"entry_txt_sha256":"570d43f4001883f7e44edc846fed45ca1a551dd4732e0bad1fccfe383e1e80c6","line":"I told my boss I needed a mental health day, so he scheduled a meeting to discuss it.","line_chars":85,"repo":"https://github.com/tongsang199712-cyber/u-suzy-one-line-office-joke-laugh-off-f574ac73-entry","verified":true}
+{
+ "commit": "a15b397b4fe66602a1f520f4ed96d5622ea34ad7",
+ "entry_txt_bytes": 85,
+ "entry_txt_sha256": "570d43f4001883f7e44edc846fed45ca1a551dd4732e0bad1fccfe383e1e80c6",
+ "line": "I told my boss I needed a mental health day, so he scheduled a meeting to discuss it.",
+ "line_chars": 85,
+ "repo": "https://github.com/tongsang199712-cyber/u-suzy-one-line-office-joke-laugh-off-f574ac73-entry",
+ "verified": true,
+ "submission_id": "01a2129e-57de-75ee-937c-08bde9ded380",
+ "claim_code": "AF-CRZ90-NDFH2-2EZTP-NP4YX",
+ "stage": "checked (round 1, grading queued)",
+ "checks": {
+  "passed": 27,
+  "failed": 0,
+  "skipped": 2,
+  "skipped_names": [
+   "thinking_on_task",
+   "thinking_fresh"
+  ]
+ },
+ "bundle_sha256": "97600d29b925cb9c5a064eacecafae0c1700f9ee8528c3234fad71892db8db9e",
+ "submitted_at": "2026-11-25T12:11:36.792Z",
+ "round1_cutoff": "2026-11-25T20:05:30.666Z",
+ "result_due": "2026-12-18T16:05:00Z"
+}
